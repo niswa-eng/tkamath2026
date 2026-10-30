@@ -1,0 +1,6 @@
+{
+  "name": "Latihan Soal TKA Matematika SMP/MTs 2026",
+  "description": "Website latihan dan pembahasan soal interaktif TKA Matematika SMP/MTs 2026 lengkap 30 soal dengan pembahasan langkah demi langkah di papan tulis digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
